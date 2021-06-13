@@ -1,0 +1,52 @@
+h1{
+	color: blue;
+}
+
+.head1{
+	border: 2px dotted green;
+
+
+}
+.red{
+	background-color: red;
+}
+
+#bigfont{
+	font-size: 50px;
+
+}
+
+
+.header{
+	min-height: 80px;
+	background-color: skyblue;
+}
+
+.wrapper{
+	overflow: hidden
+
+}
+
+.contact{
+	float: left;
+	min-height: 100px;
+	width: 60%;
+	background-color: red;
+
+}
+
+.blog{
+	float: right;
+	min-height: 100px;
+	width: 35%;
+	background-color: yellow;
+
+}
+
+.footer{
+	/*clear: both;*/
+	min-height: 100px;
+	background-color: green;
+
+
+}
